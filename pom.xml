@@ -67,7 +67,7 @@
         <dependency>
             <groupId>org.webjars.bower</groupId>
             <artifactId>react</artifactId>
-            <version>15.1.0</version>
+            <version>16.1.0</version>
         </dependency>
         <dependency>
             <groupId>org.webjars.bower</groupId>
